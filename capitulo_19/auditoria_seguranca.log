@@ -1,0 +1,6 @@
+2026-08-05 17:33:09,806  INFO  USUARIO=rh_luciana | ACAO=READ | TABELA=tabela_funcionarios | PERMITIDO=True
+2026-08-05 17:33:09,807  WARNING  USUARIO=marketing_ricardojr | ACAO=READ | TABELA=tabela_salarios | PERMITIDO=False
+2026-08-05 17:33:09,807  INFO  USUARIO=medico_trabalho | ACAO=READ | TABELA=fichas_medicas | PERMITIDO=True
+2026-08-05 17:33:09,807  WARNING  USUARIO=medico_trabalho | ACAO=READ | TABELA=tabela_salarios | PERMITIDO=False
+2026-08-05 17:33:09,807  WARNING  USUARIO=ti_ziul | ACAO=READ | TABELA=tabela_salarios | PERMITIDO=False
+2026-08-05 17:33:09,807  INFO  USUARIO=ti_ziul | ACAO=READ | TABELA=logs | PERMITIDO=True
