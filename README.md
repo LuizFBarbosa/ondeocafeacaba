@@ -2,7 +2,7 @@
 ## Debugando o Atacado
 
 **Autor:** Luiz Fernando Barbosa  
-**Site:** [www.ondeocafeacaba.com.br](https://www.ondeocafeacaba.com.br)  
+**Site:** [www.ondeocafeacaba.com.br](https://www.ondeocafeacaba.com.br)  (em breve)
 **E-mail:** luizfbarbosa@gmail.com  
 **Repositório:** [https://github.com/LuizFBarbosa/ondeocafeacaba](https://github.com/LuizFBarbosa/ondeocafeacaba)
 
