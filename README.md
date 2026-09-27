@@ -2,11 +2,10 @@
 ## Debugando o Atacado
 
 **Autor:** Luiz Fernando Barbosa  
-**Site:** [www.ondeocafeacaba.com.br](https://www.ondeocafeacaba.com.br)  (em breve)
 **E-mail:** luizfbarbosa@gmail.com  
 **Repositório:** [https://github.com/LuizFBarbosa/ondeocafeacaba](https://github.com/LuizFBarbosa/ondeocafeacaba)
 
-[![Validar código do livro](https://github.com/LuizFBarbosa/ondeocafeacaba/actions/workflows/validar-codigo.yml/badge.svg)](https://github.com/LuizFBarbosa/ondeocafeacaba/actions/workflows/validar-codigo.yml)
+(https://github.com/LuizFBarbosa/ondeocafeacaba/actions/workflows/validar-codigo.yml)
 ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
 ![Capítulos](https://img.shields.io/badge/capítulos-21%2F21%20validados-brightgreen)
 ![Licença](https://img.shields.io/badge/uso-educacional-orange)
